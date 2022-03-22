@@ -1,0 +1,11 @@
+- Write a html file and directly write js in script tag
+- Use console of chrome/firefox browser
+- Use node for js project
+- Use https://jsbin.com/ 
+- Alternative 
+    - Codepen.io
+    - Playcode
+    - Jsfiddle
+- Learning
+    - Mdn javascript
+    - w3school

@@ -1,0 +1,2 @@
+# How JS Works?
+JavaScript is a single-threaded programming language, which means it has a single Call Stack. Therefore it can do one thing at a time. The Call Stack is a data structure which records basically where in the program we are. 
